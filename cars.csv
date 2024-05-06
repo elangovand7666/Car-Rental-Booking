@@ -1,0 +1,27 @@
+name,model,year,rate,mileage,fuel,location,car_available
+swift,suzuki,2018,5000,20.0,diesel,erode,Available
+innova,toyota,2024,8000,18.0,diesel,salem,Not Available
+thar,mahandira,2022,10000,15.0,petrol,chennai,Available
+alto,suzuki,2017,3000,18.0,petrol,kanyakumari,Not Available
+indiga,tata,2010,1500,19.0,diesel,tirpur,Available
+bolero,mahandira,2014,6000,15.0,diesel,ohsur,Not Available
+Swift,DZire,2019,6000,20.0,Diesel,Delhi,Available
+Alto,K10,2017,3500,22.0,Petrol,Mumbai,Available
+City,VX,2020,9000,18.0,Petrol,Bangalore,Not Available
+Baleno,Zeta,2018,6500,21.5,Petrol,Chennai,Available
+Creta,SX,2021,1100,16.0,Diesel,Kolkata,Not Available
+XUV500,W11,2019,9500,15.0,Diesel,Hyderabad,Not Available
+Figo,Ford,2019,7000,17.0,Petrol,Coimbatore,Available
+City,Honda,2020,9000,16.0,Petrol,Madurai,Not Available
+Ertiga,Maruti,2016,6500,16.0,Diesel,Trichy,Available
+Creta,Hyundai,2023,8500,14.0,Petrol,Vellore,Available
+XUV500,Mahindra,2015,7500,15.0,Diesel,Thanjavur,Not Available
+Grand i10,Hyundai,2018,5500,17.0,Petrol,Karaikudi,Available
+Vento,Volkswagen,2017,6000,16.0,Petrol,Chidambaram,Not Available
+Duster,Renault,2016,6500,17.0,Diesel,Nagercoil,Available
+Amaze,Honda,2019,7000,18.0,Petrol,Rameswaram,Available
+Baleno,Maruti,2021,8500,19.0,Petrol,Dindigul,Not Available
+Swift Dzire,Suzuki,2020,8000,19.0,Diesel,Sivakasi,Available
+Kwid,Renault,2018,5500,20.0,Petrol,Thoothukudi,Not Available
+Santro,Hyundai,2015,6000,18.0,Petrol,Theni,Not Available
+Nano,Tata,2013,4500,22.0,Petrol,Kumbakonam,Available
